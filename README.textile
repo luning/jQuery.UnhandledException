@@ -1,0 +1,2 @@
+
+jQuery.UnhandledException is a *jQuery plugin* designed to handle all the unhandled exception in the browser in a consistent way. Its exception log is usefull in acceptance test(e.g. selenium test) to know what happened when failure.
